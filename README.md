@@ -1,2 +1,2 @@
 # Spotify-clone
-This is a Spotify clone(unresponsive)
+This is an unresponsive Spotify Clone
